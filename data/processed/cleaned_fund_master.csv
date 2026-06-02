@@ -1,7 +1,41 @@
-scheme_code,scheme_name,fund_house,category,sub_category,risk_grade
-125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
-119551,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
-120503,ICICI Prudential Bluechip Fund - Direct Plan - Growth,ICICI Prudential Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
-118632,Nippon India Large Cap Fund - Direct Plan - Growth,Nippon India Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
-119092,Axis Bluechip Fund - Direct Plan - Growth,Axis Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
-120841,Kotak Bluechip Fund - Direct Plan - Growth,Kotak Mutual Fund,Equity,Equity Scheme - Large Cap Fund,Very High
+amfi_code,fund_house,scheme_name,category,sub_category,risk_category
+119551,SBI Mutual Fund,SBI Bluechip Fund - Regular Plan - Growth,Equity,Large Cap,Moderate
+119552,SBI Mutual Fund,SBI Bluechip Fund - Direct Plan - Growth,Equity,Large Cap,Moderate
+119598,SBI Mutual Fund,SBI Small Cap Fund - Regular Plan - Growth,Equity,Small Cap,Very High
+119599,SBI Mutual Fund,SBI Small Cap Fund - Direct Plan - Growth,Equity,Small Cap,Very High
+119120,SBI Mutual Fund,SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,Gilt,Low
+100016,HDFC Mutual Fund,HDFC Top 100 Fund - Regular Plan - Growth,Equity,Large Cap,Moderate
+125497,HDFC Mutual Fund,HDFC Top 100 Fund - Direct Plan - Growth,Equity,Large Cap,Moderate
+100033,HDFC Mutual Fund,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,Mid Cap,High
+125498,HDFC Mutual Fund,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Equity,Mid Cap,High
+100025,HDFC Mutual Fund,HDFC Short Term Debt Fund - Regular - Growth,Debt,Short Duration,Low
+120503,ICICI Prudential MF,ICICI Pru Bluechip Fund - Regular - Growth,Equity,Large Cap,Moderate
+120504,ICICI Prudential MF,ICICI Pru Bluechip Fund - Direct - Growth,Equity,Large Cap,Moderate
+120505,ICICI Prudential MF,ICICI Pru Midcap Fund - Regular - Growth,Equity,Mid Cap,High
+120506,ICICI Prudential MF,ICICI Pru Value Discovery Fund - Regular - Growth,Equity,Value,Moderately High
+120507,ICICI Prudential MF,ICICI Pru Liquid Fund - Regular - Growth,Debt,Liquid,Low
+118632,Nippon India MF,Nippon India Large Cap Fund - Regular - Growth,Equity,Large Cap,Moderate
+118633,Nippon India MF,Nippon India Large Cap Fund - Direct - Growth,Equity,Large Cap,Moderate
+118634,Nippon India MF,Nippon India Small Cap Fund - Regular - Growth,Equity,Small Cap,Very High
+118635,Nippon India MF,Nippon India ETF Nifty 50 BeES,Equity,Index/ETF,Moderate
+118636,Nippon India MF,Nippon India Gilt Securities Fund - Regular - Growth,Debt,Gilt,Low
+120841,Kotak Mahindra MF,Kotak Bluechip Fund - Regular - Growth,Equity,Large Cap,Moderate
+120842,Kotak Mahindra MF,Kotak Emerging Equity Fund - Regular - Growth,Equity,Mid Cap,High
+120843,Kotak Mahindra MF,Kotak Flexicap Fund - Regular - Growth,Equity,Flexi Cap,Moderately High
+120844,Kotak Mahindra MF,Kotak Liquid Fund - Regular - Growth,Debt,Liquid,Low
+119092,Axis Mutual Fund,Axis Bluechip Fund - Regular - Growth,Equity,Large Cap,Moderate
+119093,Axis Mutual Fund,Axis Bluechip Fund - Direct - Growth,Equity,Large Cap,Moderate
+119094,Axis Mutual Fund,Axis Midcap Fund - Regular - Growth,Equity,Mid Cap,High
+119095,Axis Mutual Fund,Axis Small Cap Fund - Regular - Growth,Equity,Small Cap,Very High
+101206,Aditya Birla Sun Life MF,ABSL Frontline Equity Fund - Regular - Growth,Equity,Large Cap,Moderate
+101207,Aditya Birla Sun Life MF,ABSL Small Cap Fund - Regular - Growth,Equity,Small Cap,Very High
+101208,Aditya Birla Sun Life MF,ABSL Liquid Fund - Regular - Growth,Debt,Liquid,Low
+102885,UTI Mutual Fund,UTI Nifty 50 Index Fund - Regular - Growth,Equity,Index,Moderate
+102886,UTI Mutual Fund,UTI Mid Cap Fund - Regular - Growth,Equity,Mid Cap,High
+102887,UTI Mutual Fund,UTI Flexi Cap Fund - Regular - Growth,Equity,Flexi Cap,Moderately High
+148567,Mirae Asset MF,Mirae Asset Large Cap Fund - Regular - Growth,Equity,Large Cap,Moderate
+148568,Mirae Asset MF,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Equity,Large & Mid Cap,Moderately High
+148569,Mirae Asset MF,Mirae Asset Tax Saver Fund - Regular - Growth,Equity,ELSS,High
+149322,DSP Mutual Fund,DSP Top 100 Equity Fund - Regular - Growth,Equity,Large Cap,Moderate
+149323,DSP Mutual Fund,DSP Midcap Fund - Regular - Growth,Equity,Mid Cap,High
+149324,DSP Mutual Fund,DSP Small Cap Fund - Regular - Growth,Equity,Small Cap,Very High
